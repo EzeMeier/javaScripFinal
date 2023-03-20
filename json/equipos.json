@@ -1,0 +1,8 @@
+[
+    {"equipo": "El Rincon", "campeon": "año 2019", "partidosGan": 12, "partidosPer":3},
+    {"equipo": "Los Chuckies", "campeon": "año 2020", "partidosGan": 14, "partidosPer":1},
+    {"equipo": "El Rebote", "campeon": "año 2021",
+    "partidosGan": 13, "partidosPer":2},
+    {"equipo": "Los pibardos", "campeon": "año 2022",
+    "partidosGan": 15, "partidosPer":0}
+]
